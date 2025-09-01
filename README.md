@@ -4,7 +4,6 @@
 - 🔐 Passionate about **Network & Web Security**  
 - 🛡️ Interests: **Firewalling**, **Penetration Testing**, **Ethical Hacking (CEH)**  
 - 🐍 Skilled in **Python** scripting & security automation  
-- 🎯 Working on achieving **CISSP certification** (coming soon...)  
 
 ---
 
