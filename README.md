@@ -19,7 +19,7 @@
 ## 🔎 Check Out My Work  
 📂 Explore my projects on GitHub: [Am1rX](https://github.com/Am1rX)  
 
-🌐 Visit my personal website & online resume: [amyrmahdi.ct.ws](https://amyrmahdi.ct.ws/)  
+🌐 Visit my personal website & online resume: [amirmahdinozari.info](https://amirmahdinozari.info)  
 
 ---
 
