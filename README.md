@@ -56,6 +56,8 @@ A multi-protocol deception platform designed for industrial and SCADA environmen
 
 🔗 [View MirageOT](https://github.com/Am1rX/MirageOT)
 
+<img src="https://raw.githubusercontent.com/Am1rX/MirageOT/main/docs/images/console-demo.png" width="680" alt="MirageOT local demo console showing synthetic decoy traffic" />
+
 ---
 
 ## 🍯 Advanced Honeypot
@@ -79,7 +81,7 @@ A realistic honeypot designed for attacker monitoring, deception, threat intelli
 - Syslog / CEF integration
 - Telegram alerts
 - Incident reporting dashboard
-- Automated test suite and CI
+- Automated test suite
 
 🔗 [View Advanced Honeypot](https://github.com/Am1rX/Advanced_Honeypot)
 
@@ -110,6 +112,8 @@ SERAPHIM combines multiple open-source intelligence sources inside a unified geo
 `FastAPI` • `SQLite` • `CesiumJS` • `JavaScript` • `Python`
 
 🔗 [View SERAPHIM Observatory](https://github.com/Am1rX/seraphim-observatory)
+
+<img src="https://raw.githubusercontent.com/Am1rX/seraphim-observatory/main/docs/screenshots/dashboard.png" width="680" alt="SERAPHIM Observatory dashboard and 3D globe" />
 
 ---
 
